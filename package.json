@@ -6,6 +6,9 @@
   "bin": "index.js",
   "author": "Rogelio Guzman <rogelioguzmanh@gmail.com>",
   "license": "MIT",
+  "scripts":{
+    "build": "pkg package.json"
+  },
   "dependencies": {
     "chalk": "^2.0.1",
     "inquirer": "^3.2.0"
