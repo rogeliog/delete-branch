@@ -1,0 +1,16 @@
+{
+  "name": "delete-branch",
+  "version": "0.0.1",
+  "description": "Git delete branch interactive",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "Rogelio Guzman <rogelioguzmanh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "inquirer": "^3.2.0"
+  },
+  "devDependencies": {
+    "pkg": "^4.1.1"
+  }
+}
